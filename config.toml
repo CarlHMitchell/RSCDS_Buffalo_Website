@@ -1,0 +1,94 @@
+# The URL the site will be built for
+base_url = "https://rscdsbuffalo.com/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# Output to public_html/ instead of public/
+output_dir = "public_html"
+
+theme = "adidoks"
+
+title = "RSCDS Buffalo Branch"
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+author = "Carl Mitchell"
+email = "rscdsbuffalo@eufalconimorph.com"
+
+title_separator = "|"  # set as |, -, _, etc
+title_addition = "Royal Scottish Country Dance Society"
+
+# Set theme-color meta tag for Chrome browser
+theme_color = "#fff"
+
+# The default language; used in feeds and search index
+# Note: the search index doesn't support Chinese/Japanese/Korean Languages
+default_language = "en"
+
+# Whether to generate a feed file for the site
+generate_feed = true
+
+is_netlify = false
+
+# Set date format in blog publish metadata
+timeformat = "%Y-%m-%d %H:%M:%S" # e.g. 2021-05-01 09:19:42
+timezone = "America/New_York"
+
+# Menu items
+[[extra.menu.main]]
+name = "Classes"
+section = "classes"
+url = "/classes/"
+weight = 10
+
+[[extra.menu.main]]
+name = "Events"
+section = "events"
+url = "/events/"
+weight = 20
+
+[[extra.menu.main]]
+name = "Membership"
+section = "membership"
+url = "/membership/"
+weight = 30
+
+[[extra.menu.main]]
+name = "Nearby Groups"
+section = "nearby_groups"
+url = "/nearby_groups/"
+weight = 40
+
+[[extra.menu.main]]
+name = "Resources"
+section = "online_resources"
+url = "/online_resources/"
+weight = 50
+
+[extra.open]
+enable = false
+
+[[extra.menu.social]]
+name = ""
+pre = ''
+url = ""
+weight = 10
+
+# Footer contents
+[extra.footer]
+info = 'Powered by <a href="https://www.getzola.org/">Zola</a>, and <a href="https://github.com/aaranxu/adidoks">AdiDoks</a>'
+
+[[extra.footer.nav]]
+name = "Privacy"
+url = "/privacy-policy/"
+weight = 10
