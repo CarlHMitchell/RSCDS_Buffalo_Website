@@ -3,7 +3,7 @@ title = "Upcoming Events"
 
 +++
 
-## Fall Frolic Dance Oct 26th
+## Christmas Dance Dec 21st
 
 7:00 PM to 9:00 PM
 
