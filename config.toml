@@ -58,22 +58,28 @@ url = "/events/"
 weight = 20
 
 [[extra.menu.main]]
+name = "Burns Night"
+section = "burns"
+url = "/burns/"
+weight = 30
+
+[[extra.menu.main]]
 name = "Membership"
 section = "membership"
 url = "/membership/"
-weight = 30
+weight = 40
 
 [[extra.menu.main]]
 name = "Nearby Groups"
 section = "nearby_groups"
 url = "/nearby_groups/"
-weight = 40
+weight = 50
 
 [[extra.menu.main]]
 name = "Resources"
 section = "online_resources"
 url = "/online_resources/"
-weight = 50
+weight = 60
 
 [extra.open]
 enable = false

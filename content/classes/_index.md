@@ -15,6 +15,8 @@ title = "Classes"
 > 77 Washington Hwy  
 > Buffalo, NY 14226
 
+{{ ChurchMap() }}
+
 RSCDS Certified Teachers: Sara Lynn Johnson, Marie Ziccarelli, Rebecca Roman, Scot Graham-Raad, and Claire Collier
 
 ### Beginner classes start October 5th
