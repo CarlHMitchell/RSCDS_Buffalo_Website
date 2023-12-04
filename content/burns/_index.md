@@ -8,7 +8,7 @@ title = "Burns Night"
 ## Saturday, January 27<sup>th</sup>, 2024
 
 The Buffalo Irish Center  
-245 Abbot Rd.  
+245 Abbott Rd.  
 Buffalo, NY
 
 **Reception and Raffle 4:30 P.M.**
@@ -17,7 +17,7 @@ Buffalo, NY
 
 ### Dinner
 
-Haggis, Tatties, Neeps, Roast Beef, Salad, Green Beans, Desserts
+Haggis, Tatties, Neeps, Roast Beef, Salad, Green Beans, Desserts & More!
 
 Please mention if you have special dietary restrictions when you reserve your ticket.
 
@@ -45,7 +45,11 @@ U.S. checks payable to "RSCDS Buffalo".
 
 $70 Canadian, cash only
 
-Attendance by _Reservation ONLY_. Call +1 (716) 548-4857 by 2024-01-18.
+Inquire if you wish to pay electronically.
+
+Attendance by _Reservation ONLY_. Call +1 (716) 548-4857 or email rscdsbuffalo@aol.com by 2024-01-18.
+
+[Printable Registration Form](/burns/2024_Burns_reg_form.pdf)
 
 Reserve by January 1<sup>st</sup> for entry in the early bird drawing!
 
