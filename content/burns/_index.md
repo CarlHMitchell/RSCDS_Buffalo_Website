@@ -3,7 +3,7 @@ title = "Burns Night"
 +++
 
 
-{{ Image(file="Burns Night Image.png") }}
+{{ Image(file="burns/Burns_Night_Image.png") }}
 
 ## Saturday, January 27<sup>th</sup>, 2024
 
@@ -47,7 +47,7 @@ $70 Canadian, cash only
 
 Inquire if you wish to pay electronically.
 
-Attendance by _Reservation ONLY_. Call +1 (716) 548-4857 or email rscdsbuffalo@aol.com by 2024-01-18.
+Attendance by _Reservation ONLY_. Call or text +1 (716) 548-4857 by 2024-01-18.
 
 [Printable Registration Form](/burns/2024_Burns_reg_form.pdf)
 
