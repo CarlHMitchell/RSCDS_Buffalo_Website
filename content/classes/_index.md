@@ -54,5 +54,5 @@ December  | 7th      | 14th | **21st** | No Class | No Class | Christmas Dance D
 January   | 4th      | 11th | 18th     | 25th     | N/A      | Burns Night Jan 27th
 February  | 1st      | 8th  | **15th** | 22nd     | 29th     | Party Night Feb 15th
 March     | 7th      | 14th | **21st** | No Class | N/A      | Mid-Winter Madness Dance Mar 21st
-April     | 4th      | 11th | **18th** | 25th     | N/A      | Spring Fling Apr 18th
-May       | 2nd      | 9th  | 16th     | **23rd** | *30th*   | **Ice Cream Social May 23rd** *AGM May 30th*
+April     | 4th      | 11th | 18th     | **25th** | N/A      | Spring Fling Apr 25th
+May       | 2nd      | 9th  | 16th     | **23rd** | *30th*   | TBD party May 23rd *AGM May 30th*

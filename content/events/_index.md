@@ -3,7 +3,7 @@ title = "Upcoming Events"
 
 +++
 
-## Christmas Dance Dec 21st
+## Christmas Dance 2024 TBD
 
 7:00 PM to 9:00 PM
 
@@ -11,10 +11,4 @@ title = "Upcoming Events"
 > 77 Washington Hwy  
 > Buffalo, NY 14226
 
-## Burns Night
-
-January 27th, 2024
-
-> The Buffalo Irish Center  
-> 245 Abbott Rd  
-> Buffalo, NY 14220
+## Burns Night 2025 TBD
