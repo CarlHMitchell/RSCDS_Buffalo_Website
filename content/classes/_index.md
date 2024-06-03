@@ -7,7 +7,20 @@ title = "Classes"
 
 ### Buffalo Scottish Country Dance Classes
 
-#### Thursday evenings, 7 PM to 9 PM
+#### Thursday evenings, 6:45 PM to 9:30 PM
+
+6:45 PM: Doors open. Registration/sign-in, put on your shoes and be ready to dance.
+
+7:00-7:45 New & beginner dancers with experienced dancers.  
+Learn and practice basik skills including warming up, steps, and figures.
+
+7:45-8:30 New & beginner dancers with experienced dancers.  
+Learn and enjloy dances appropriate for all levels.
+
+8:30-8:45 Tea/water break.  
+Time to socialize and for branch announcements.
+
+8:45-9:30 Dancing for experienced dancers.
 
 ##### September through May at
 
@@ -17,9 +30,9 @@ title = "Classes"
 
 {{ ChurchMap() }}
 
-RSCDS Certified Teachers: Sara Lynn Johnson, Marie Ziccarelli, Rebecca Roman, Scot Graham-Raad, and Claire Collier
+RSCDS Certified Teachers: Sara Lynn Johnson, Marie Ziccarelli, Rebecca Roman, Ellen Sears, Claire Collier, and trainee Bethany Wright
 
-### Beginner classes start October 5th
+### Beginner classes start September 19th
 
 New dancers are accepted throughout the season, but it is recommended to begin at the start.  
 No partner is necessary!  No previous dance experience is necessary!  
@@ -29,11 +42,11 @@ Footwear at the first few lessons should be light, flexible soled shoes, sneaker
 
 Branch [membership](../membership/) is required in addition to class fees.
 
-$6 per class OR  
-$80 for first semester ending 2024-01-25 OR  
-$160 for the entire year ending 2024-05-30
+$7 per class OR  
+$95 for first semester ending 2024-01-25 OR  
+$185 for the entire year ending 2024-05-30
 
-First semester for new dancers is **only $40**.
+First semester for new dancers is **only $45**.
 
 RSCDS Buffalo does not currently offer a youth class.
 
@@ -41,18 +54,16 @@ RSCDS Buffalo does not currently offer a youth class.
 
 Classes will be canceled if schools are closed due to weather, or a travel ban is in place.
 
-September 28th class is for returning dancers.
+### Schedule for 2024/2025 Season
 
-### Schedule
-
-Month     |          |      |          |          |          | Events
-----------|----------|------|----------|----------|----------|----------------------------------------------
-September | 7th      | 14th | **21st** | 28th     | N/A      | Open House Sep 21st
-October   | 5th      | 12th | 19th     | **26th** | N/A      | Fall Frolic Dance Oct 26th
-November  | No Class | 9th  | 16th     | No Class | 30th     |
-December  | 7th      | 14th | **21st** | No Class | No Class | Christmas Dance Dec 21st
-January   | 4th      | 11th | 18th     | 25th     | N/A      | Burns Night Jan 27th
-February  | 1st      | 8th  | **15th** | 22nd     | 29th     | Party Night Feb 15th
-March     | 7th      | 14th | **21st** | No Class | N/A      | Mid-Winter Madness Dance Mar 21st
-April     | 4th      | 11th | 18th     | **25th** | N/A      | Spring Fling Apr 25th
-May       | 2nd      | 9th  | 16th     | **23rd** | *30th*   | TBD party May 23rd *AGM May 30th*
+Month     |          |          |          |          |          | Events
+----------|----------|----------|----------|----------|----------|----------------------------------------------
+September | N/A      | 12th     | **19th** | 26th     | N/A      | Open House / Welcome Dance Sep 19st
+October   | 3rd      | 10th     | 17th     | 24th     | **31st** | Fall Frolic Party Oct 31st
+November  | 7th      | 14th     | 21st     | No Class | N/A      | N/A
+December  | 5th      | 12th     | **19th** | No Class | No Class | Christmas Dance Dec 19th
+January   | 2nd      | 9th      | 16th     | 23rd     | 30th     | Burns Night Jan 25th
+February  | 6th      | 13th     | 20th     | 27th     | N/A      | N/A
+March     | **6th**  | 13th     | 20th     | 27th     | N/A      | Cabin Feever Party Mar 6th
+April     | 3rd      | **10th** | No Class | 24th     | N/A      | Spring Fling Party Apr 10th
+May       | 1st      | 8th      | 15th     | **22nd** | *29th*   | End of Year Party May 22nd *AGM May 29th*

@@ -57,11 +57,11 @@ section = "events"
 url = "/events/"
 weight = 20
 
-[[extra.menu.main]]
-name = "Burns Night"
-section = "burns"
-url = "/burns/"
-weight = 30
+# [[extra.menu.main]]
+# name = "Burns Night"
+# section = "burns"
+# url = "/burns/"
+# weight = 30
 
 [[extra.menu.main]]
 name = "Membership"
