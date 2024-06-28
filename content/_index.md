@@ -17,7 +17,7 @@ content = '<a href="/classes/">Thursdays, 7-9 PM, Amherst Community Church.</a>'
 
 [[extra.list]]
 title = "Next Event"
-content = 'Party night April 25th'
+content = '<a href="/classes/">Dancing starts Sept 19th.</a>'
 
 [[extra.list]]
 title = "What Is Scottish Country Dancing?"

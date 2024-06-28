@@ -28,4 +28,4 @@ Tuesdays, 7 PM to 9 PM  September to June
 > 4 East Henrietta Road  
 > Rochester, NY 14620
 
-**Must** contact [Sharron Peet](malito:sharron.p@gmail.com) before attending.
+**Must** contact [Sharron Peet](malito:sharron.p@gmail.com) (<sharron.p@gmail.com>) before attending.

@@ -95,6 +95,11 @@ weight = 10
 info = 'Powered by <a href="https://www.getzola.org/">Zola</a>, and <a href="https://github.com/aaranxu/adidoks">AdiDoks</a>'
 
 [[extra.footer.nav]]
+name = "Contact Us"
+url = "/contact/"
+weight = 9
+
+[[extra.footer.nav]]
 name = "Privacy"
 url = "/privacy-policy/"
 weight = 10
