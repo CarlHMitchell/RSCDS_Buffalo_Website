@@ -12,10 +12,10 @@ title = "Classes"
 6:45 PM: Doors open. Registration/sign-in, put on your shoes and be ready to dance.
 
 7:00-7:45 New & beginner dancers with experienced dancers.  
-Learn and practice basik skills including warming up, steps, and figures.
+Learn and practice basic skills including warming up, steps, and figures.
 
 7:45-8:30 New & beginner dancers with experienced dancers.  
-Learn and enjloy dances appropriate for all levels.
+Learn and enjoy dances appropriate for all levels.
 
 8:30-8:45 Tea/water break.  
 Time to socialize and for branch announcements.
