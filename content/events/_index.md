@@ -16,6 +16,8 @@ Program devised with the beginner/less experienced dancer in mind and for the en
 
 [Program with dance briefs](/events/dance_around_the_world/)
 
+[Strathspey.org videos of program dances](https://my.strathspey.org/dd/list/52522/#videos)
+
 ## Christmas Dance 2024 TBD
 
 7:00 PM to 9:00 PM
