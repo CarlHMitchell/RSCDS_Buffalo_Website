@@ -7,11 +7,11 @@ title = "Membership"
 
 Type | Fee
 ---|---
-Local & RSCDS<sup>1</sup> Adult Individual membership | $38
-Local & RSCDS Adult Joint membership | $58
-Local & RSCDS Youth (12-17) membership<sup>2</sup> | $22
-Local & RSCDS Young Adult (18-24) membership | $32
-Local membership only | $10
+Local & RSCDS<sup>1</sup> Adult Individual membership | $40
+Local & RSCDS Adult Joint membership | $61
+Local & RSCDS Youth (12-17) membership<sup>2</sup> | $23
+Local & RSCDS Young Adult (18-24) membership | $34
+Local membership only | $11
 
 <sup>1</sup> RSCDS membership is membership in the [international organization]([https://rscds](https://rscds.org/)). This includes the bi-annual *Scottish Country Dancer* magazine (print or electronic), a 10% discount on RSCDS merchandise, discounts on selected RSCDS events, and more.
 

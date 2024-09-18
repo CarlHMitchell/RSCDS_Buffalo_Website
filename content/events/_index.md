@@ -11,4 +11,8 @@ title = "Upcoming Events"
 > 77 Washington Hwy  
 > Buffalo, NY 14226
 
-## Burns Night 2025 TBD
+## Burns Night 2025
+
+January 25th
+
+Buffalo Irish Center

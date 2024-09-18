@@ -42,9 +42,9 @@ Footwear at the first few lessons should be light, flexible soled shoes, sneaker
 
 Branch [membership](../membership/) is required in addition to class fees.
 
-$7 per class OR  
-$95 for first semester ending 2024-01-25 OR  
-$185 for the entire year ending 2024-05-30
+$6 per class OR  
+$80 for first semester ending 2025-01-30 OR  
+$160 for the entire year ending 2025-05-29
 
 First semester for new dancers is **only $45**.
 
