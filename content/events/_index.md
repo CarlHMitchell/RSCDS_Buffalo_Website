@@ -3,7 +3,7 @@ title = "Upcoming Events"
 
 +++
 
-## DANCE AROUND the WORLD
+## Dance Around the World
 
 Sat., November 23,2024  
 1-4 PM
