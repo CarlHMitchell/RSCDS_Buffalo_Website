@@ -15,4 +15,6 @@ title = "Upcoming Events"
 
 January 25th
 
-Buffalo Irish Center
+Buffalo Irish Center  
+245 Abbott Road  
+Buffalo, NY 14220
