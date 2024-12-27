@@ -5,7 +5,7 @@ title = "Burns Night"
 
 {{ Image(file="burns/Burns_Night_Image.png") }}
 
-## Saturday, January 27<sup>th</sup>, 2024
+## Saturday, January 25<sup>th</sup>, 2025
 
 The Buffalo Irish Center  
 245 Abbott Rd.  
@@ -17,17 +17,22 @@ Buffalo, NY
 
 ### Dinner
 
-Haggis, Tatties, Neeps, Roast Beef, Salad, Green Beans, Desserts & More!
+Traditional Burns Night Supper including haggis, steak pie, tatties, neeps, salad, dessert, and more!
+
+(Note, the bar will be open to purchase drinks.)
 
 Please mention if you have special dietary restrictions when you reserve your ticket.
 
 ### Program
 
+* Address to the Haggis
 * Toasts
 * Immortal Memory
-* Address to the Haggis
+* Bagpipe performance
+* Highland dance performance
+* Burns sing-along
 * Dinner
-* Dancing
+* [Ceilidh and Scottish Country dancing with live music by Strath Hanna](@/burns/dance_programme.md)
 
 #### Dancing
 
@@ -37,19 +42,19 @@ Everyone Welcome! No experience necessary! All dances will be walked first.
 
 [Dance Programme](@/burns/dance_programme.md)
 
-### Tickets
+### Tickets are now on sale
 
-$50 U.S.
+To make reservations, call or text 716-548-4857
+
+$55 U.S. cash or check
 
 U.S. checks payable to "RSCDS Buffalo".
 
-$70 Canadian, cash only
+$75 Canadian, cash only
 
-Inquire if you wish to pay electronically.
+Attendance by _Reservation ONLY_. Payment must be received by January 18<sup>th</sup>, 2025. Call or text +1 (716) 548-4857 to register.
 
-Attendance by _Reservation ONLY_. Call or text +1 (716) 548-4857 by 2024-01-18.
-
-[Printable Registration Form](/burns/2024_Burns_reg_form.pdf)
+[Printable Registration Form](/burns/2025_Burns_reg_form.pdf)
 
 Reserve by January 1<sup>st</sup> for entry in the early bird drawing!
 

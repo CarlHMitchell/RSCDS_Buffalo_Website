@@ -13,11 +13,11 @@ repo_url=""
 
 [[extra.list]]
 title = "Class Information"
-content = '<a href="/classes/">Thursdays, 6:45-9:30 PM, Amherst Community Church.</a>'
+content = '<a href="/classes/">Thursdays, 6:45-9:30 PM, Amherst Community Church</a>'
 
 [[extra.list]]
-title = "Next Event"
-content = '<a href="/classes/">Open House Sept 19th.</a>'
+title = "Next Events"
+content = '<a href="/burns/">Burns Night Jan 25th</a>'
 
 [[extra.list]]
 title = "What Is Scottish Country Dancing?"

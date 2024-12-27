@@ -3,22 +3,9 @@ title = "Upcoming Events"
 
 +++
 
-## Dance Around the World
+## Christmas Dance 2024
 
-Sat., November 23,2024  
-1-4 PM
-
-St. Columba Anglican Church  
-7 St. Columba Drive, St. Catharines  
-Ontario Canada
-
-Program devised with the beginner/less experienced dancer in mind and for the enjoyment of all.
-
-[Program with dance briefs](/events/dance_around_the_world/)
-
-[Strathspey.org videos of program dances](https://my.strathspey.org/dd/list/52522/#videos)
-
-## Christmas Dance 2024 TBD
+December 19th
 
 7:00 PM to 9:00 PM
 
