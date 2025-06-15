@@ -4,15 +4,21 @@ This repository contains the source code of the RSCDS Buffalo Branch website. It
 
 ## Maintaining rscdsbuffalo.com
 
-This site is built with [Zola](https://www.getzola.org/), and source controlled with [Git](https://git-scm.com/).
+This site is built with [Zola](https://www.getzola.org/), and source controlled with [Git](https://git-scm.com/). These instructions assume a POSIX terminal, e.g. "git bash" on Windows, ZSH on MacOS, BASH or ZSH on Linux, etc.
 
 Install Git and Zola if needed.
 
 Change to the `rscds_buffalo` folder in your terminal.
 
+Fetch & update the `main` branch: `git checkout main && git fetch && git pull --ff-only`.
+
+Create a new branch with `git checkout -b <branch name>`, e.g. `git checkout -b update_schedule_for_2026`.
+
 Edit the Markdown files as desired. Test changes by running `zola serve` and opening [the page it creates](http://127.0.0.1:1111) in your browser. Zola will re-generate the page when you change the Markdown sources.
 
-Commit changes to `git` (e.g. `git commit -a && git push`). Write a descriptive message. Try to have one change per commit, you can "roll back" commits independently if needed, that's harder if they have lots of changes.
+Commit changes to `git` (e.g. `git commit -a`). Write a descriptive message. Try to have one change per commit, you can "roll back" commits independently if needed, that's harder if they have lots of changes.
+
+Push your changes up to GitHub & make a pull request to `main` from your branch.
 
 ## Deploying changes
 
