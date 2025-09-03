@@ -32,7 +32,7 @@ Time to socialize and for branch announcements.
 
 RSCDS Certified Teachers: Sara Lynn Johnson, Marie Ziccarelli, Rebecca Roman, Ellen Sears, Claire Collier, and trainee Bethany Wright
 
-### Beginner classes start September 19th
+### Beginner classes start September 18th
 
 New dancers are accepted throughout the season, but it is recommended to begin at the start.  
 No partner is necessary!  No previous dance experience is necessary!  
@@ -54,16 +54,16 @@ RSCDS Buffalo does not currently offer a youth class.
 
 Classes will be canceled if schools are closed due to weather, or a travel ban is in place.
 
-### Schedule for 2024/2025 Season
+### Schedule for 2025/2026 Season
 
 Month     |          |          |          |          |          | Events
 ----------|----------|----------|----------|----------|----------|----------------------------------------------
-September | N/A      | 12th     | **19th** | 26th     | N/A      | Open House / Welcome Dance Sep 19st
-October   | 3rd      | 10th     | 17th     | 24th     | **31st** | Fall Frolic Party Oct 31st
-November  | 7th      | 14th     | 21st     | No Class | N/A      | N/A
-December  | 5th      | 12th     | **19th** | No Class | No Class | Christmas Dance Dec 19th
-January   | 2nd      | 9th      | 16th     | 23rd     | 30th     | Burns Night Jan 25th
-February  | 6th      | 13th     | 20th     | 27th     | N/A      | N/A
-March     | **6th**  | 13th     | 20th     | 27th     | N/A      | Cabin Feever Party Mar 6th
-April     | 3rd      | **10th** | No Class | 24th     | N/A      | Spring Fling Party Apr 10th
-May       | 1st      | 8th      | 15th     | **22nd** | *29th*   | End of Year Party May 22nd *AGM May 29th*
+September | 4th      | 11th     | **18th** | 25th     | N/A      | Open House September 18th
+October   | 2nd      | 9th      | 16th     | 23rd     | **30th** | Halloween Party Night October 30th
+November  | 6th      | 13th     | 20th     | No Class | N/A      | N/A
+December  | 4th      | 11th     | **18th** | No Class | N/A      | Christmas Party December 18th
+January   | 8nd      | 15th     | 22nd     | 29th     | N/A      | Burns Night January 24th
+February  | 5th      | 12th     | 19th     | 26th     | N/A      | N/A
+March     | 5th      | 12th     | 19th     | 26th     | N/A      | Spring Fling Party night March 26th
+April     | 9th      | 16th     | 23rd     | 30th     | N/A      | N/A
+May       | 7th      | 13th     | **21st** | *28th*   | N/A      | Ice Cream Social Party May 21st *AGM May 28th*

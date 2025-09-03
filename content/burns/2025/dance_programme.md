@@ -1,5 +1,5 @@
 +++
-title = "Burns Night Dance Programme"
+title = "Burns Night Dance Programme 2025"
 +++
 
 
