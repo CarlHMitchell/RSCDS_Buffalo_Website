@@ -16,3 +16,5 @@ Local membership only | $11
 <sup>1</sup> RSCDS membership is membership in the [international organization]([https://rscds](https://rscds.org/)). This includes the bi-annual *Scottish Country Dancer* magazine (print or electronic), a 10% discount on RSCDS merchandise, discounts on selected RSCDS events, and more.
 
 <sup>2</sup> RSCDS buffalo does not currently offer a youth class, but youth may still become branch & international RSCDS members.
+
+[Membership Payment Form](/membership/RSCDS_Membership_Payment_Form_2025.xlsx)
