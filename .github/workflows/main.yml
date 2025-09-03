@@ -14,9 +14,9 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v4
       - name: Build only
-        uses: shalzz/zola-deploy-action@v0.20.0
+        uses: shalzz/zola-deploy-action@v0.21.0
         env:
-          BUILD_DIR: public_html
+          BUILD_DIR: .
           BUILD_ONLY: true
           BUILD_FLAGS: --drafts
           # A GitHub token is not necessary when BUILD_ONLY is true
@@ -29,8 +29,8 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v4
       - name: Build and deploy
-        uses: shalzz/zola-deploy-action@v0.20.0
+        uses: shalzz/zola-deploy-action@v0.21.0
         env:
-          BUILD_DIR: public_html
+          BUILD_DIR: .
           PAGES_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
