@@ -34,7 +34,8 @@ RSCDS Certified Teachers: Sara Lynn Johnson, Marie Ziccarelli, Rebecca Roman, El
 
 ### Beginner classes start September 18th
 
-New dancers are accepted throughout the season, but it is recommended to begin at the start.  
+New dancers with little or no previous experience in Scottish Country Dancing please join us to start any Thursday from September 18 through October 16, 2025, and January 29 through February 26, 2026.  
+
 No partner is necessary!  No previous dance experience is necessary!  
 Footwear at the first few lessons should be light, flexible soled shoes, sneakers or dance slippers.  
 
