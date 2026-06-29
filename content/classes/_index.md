@@ -2,25 +2,25 @@
 title = "Classes"
 +++
 
-
 ## Dance Class Information
 
 ### Buffalo Scottish Country Dance Classes
+
+#### Weekly Summer Dancing
+
+RSCDS Buffalo will be dancing on the second floor of the Polish Cadets Hall (927 Grant Street, Buffalo) from 7:00-9:00 pm on Thursdays throughout June and July, EXCEPT NOT Thursday, July 2nd. 
 
 #### Thursday evenings, 6:45 PM to 9:30 PM
 
 6:45 PM: Doors open. Registration/sign-in, put on your shoes and be ready to dance.
 
-7:00-7:45 New & beginner dancers with experienced dancers.  
+7:00-8:00 New & beginner dancers with experienced dancers.  
 Learn and practice basic skills including warming up, steps, and figures.
 
-7:45-8:30 New & beginner dancers with experienced dancers.  
-Learn and enjoy dances appropriate for all levels.
-
-8:30-8:45 Tea/water break.  
+8:00-8:15 Tea/water break.  
 Time to socialize and for branch announcements.
 
-8:45-9:30 Dancing for experienced dancers.
+8:15-9:30 Dancing for experienced dancers.
 
 ##### September through May at
 
@@ -55,16 +55,16 @@ RSCDS Buffalo does not currently offer a youth class.
 
 Classes will be canceled if schools are closed due to weather, or a travel ban is in place.
 
-### Schedule for 2025/2026 Season
+### Schedule for 2026/2027 Season
 
 Month     |          |          |          |          |          | Events
 ----------|----------|----------|----------|----------|----------|----------------------------------------------
-September | 4th      | 11th     | **18th** | 25th     | N/A      | Open House September 18th
-October   | 2nd      | 9th      | 16th     | 23rd     | **30th** | Halloween Party Night October 30th
-November  | 6th      | 13th     | 20th     | No Class | N/A      | N/A
-December  | 4th      | 11th     | **18th** | No Class | N/A      | Christmas Party December 18th
-January   | 8nd      | 15th     | 22nd     | 29th     | N/A      | Burns Night January 24th
-February  | 5th      | 12th     | 19th     | 26th     | N/A      | N/A
-March     | 5th      | 12th     | 19th     | 26th     | N/A      | Spring Fling Party night March 26th
-April     | 9th      | 16th     | 23rd     | 30th     | N/A      | N/A
-May       | 7th      | 13th     | **21st** | *28th*   | N/A      | Ice Cream Social Party May 21st *AGM May 28th*
+September | **10th** | 17th     | 24th     | N/A      | N/A      | Open House September 10th, Niagara County Celtic Festival Sept. 19th-20th
+October   | 1st      | 8th      | 15th     | 22nd     | 29th     |
+November  | 5th      | 12th     | 19th     | No Class | N/A      |
+December  | 3rd      | 10th     | 17th     | No Class | N/A      |
+January   | 7th      | 14th     | 21st     | 28th     | N/A      | Burns Night Celebration January 23rd
+February  | 4th      | 11th     | 18th     | 25th     | N/A      |
+March     | 4th      | 11th     | 18th     | No Class | N/A      |
+April     | 1st      | 8th      | 15th     | 22nd     | 29th     |
+May       | 6th      | 13th     | 20th     | **27th** | N/A      | Annual General Meeting May 27th
