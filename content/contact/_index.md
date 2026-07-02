@@ -2,6 +2,8 @@
 title = "Contact Us"
 +++
 
-President: [Maisie Martinick](mailto://mmartinick@gmail.com)
+President: [Deb Miller](mailto://wackynurs7@aol.com)
+
+Secretary: [Jere Burbaker](mailto://brubakerjp@aol.com)
 
 Webmaster: [Carl Mitchell](mailto://rscdsbuffalo@eufalconimorph.com)
