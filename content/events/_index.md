@@ -3,6 +3,6 @@ title = "Upcoming Events"
 
 +++
 
-## Burns Night 2026
+## Burns Night 2027
 
-January 24th
+January 23rd

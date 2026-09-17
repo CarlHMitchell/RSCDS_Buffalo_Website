@@ -2,8 +2,6 @@
 title = "Burns Night"
 +++
 
-## Saturday, January 24<sup>th</sup>, 2026
+## Saturday, January 23<sup>rd</sup>, 2027
 
 Details TBA
-
-### [Last Year's Burns Night](@/burns/2025.md)
